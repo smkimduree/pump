@@ -1,0 +1,4 @@
+../Core/Src/hardware.c:16:6:Timer_Ms_Ticks_Proc	3
+../Core/Src/hardware.c:24:9:QSPI_Receive	2
+../Core/Src/hardware.c:31:9:QSPI_Transmit	2
+../Core/Src/hardware.c:38:9:GPIO_DIP_SW_Input	10

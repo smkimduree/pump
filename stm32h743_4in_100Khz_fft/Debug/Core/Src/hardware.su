@@ -1,0 +1,4 @@
+../Core/Src/hardware.c:16:6:Timer_Ms_Ticks_Proc	4	static
+../Core/Src/hardware.c:24:9:QSPI_Receive	16	static
+../Core/Src/hardware.c:31:9:QSPI_Transmit	16	static
+../Core/Src/hardware.c:38:9:GPIO_DIP_SW_Input	16	static

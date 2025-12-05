@@ -1,0 +1,5 @@
+[general]
+enable_rules = ["pr_description", "review", "improve", "ask"]
+
+[github]
+app_integration = true
